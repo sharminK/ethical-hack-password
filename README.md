@@ -1,4 +1,4 @@
-# Ethical-Hacking
+# Ethical-Hack (password)
 ***1) For getting WiFi password***
 
 ***2) For change WiFi MAC address***
